@@ -8,7 +8,6 @@ It is a **single `index.html` file** with no build step, no framework and no dep
 
 ![Demo: tilt, log in, flip to sign up and back](docs/demo.gif)
 
-▶ [Watch the full-quality video (MP4)](docs/demo.mp4)
 
 ## Screenshots
 
